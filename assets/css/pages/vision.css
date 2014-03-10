@@ -1,0 +1,91 @@
+
+	.audio-clip {
+		background: #3483aa;
+		height: 280px;
+	}
+	.audio-clip .headshot {
+		float: left;
+		margin: 20px 0 0 20px;
+	}
+	.audio-clip .vision-message {
+		float: left;
+		width: 730px;
+	}
+	.audio-clip p.vision {
+		font-size: 2.7em;
+		color: #fff;
+		margin: 16px 0 0 14px;
+		line-height: 1.3em;
+		font-weight: 400;
+	}
+	.audio-clip p.vision strong {
+		color: #0a212d;
+		font-weight: 500;
+	}
+	.audio-clip .the-clip {
+		background: #1c333f;
+		width: 730px;
+		height: 50px;
+		margin: 11px 0 0 0;
+		text-transform: uppercase;
+		color: #fff;
+	}
+	.audio-clip .the-clip small,
+	.audio-clip .the-clip h3 {
+		padding: 0 0 0 14px;
+	}
+	.audio-clip .the-clip small {
+		font-size: 1.1em;
+	}
+	.audio-clip .the-clip h3 {
+		font-size: 1.7em;
+		font-weight: 200;
+		margin: 0;
+		line-height: 1.3em;
+	}
+	.audiojs {
+	width: 300px;
+	margin: 6px 20px 0;
+	}
+
+	.audiojs .scrubber {
+		width: 100px;
+	}
+
+
+
+	.main p {
+		color: #435259;
+		margin: 0 0 30px;
+		font-size: 1.6em;
+		font-weight: 200;
+		font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	}
+
+	.main .article {
+		margin: 30px auto;
+	}
+	.main .author p {
+		margin: 0;
+	}
+	.main .signature {
+		display: block;
+		width: 147px;
+		height: 93px;
+		background: url(../../img/pages/vision/signature.png) center no-repeat;
+		text-indent: -9999px;
+	}
+	.main .author .name {
+		text-transform: uppercase;
+		font-size: 1.8em;
+	}
+	.author .title {
+		font-size: 1.2em;
+		font-weight: bold;
+		line-height: 1.3em;
+	}
+	.author .company {
+		font-size: 1.2em;
+		font-weight: 200;
+		line-height: 1.3em;
+	}

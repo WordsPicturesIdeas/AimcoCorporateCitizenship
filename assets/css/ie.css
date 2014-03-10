@@ -1,0 +1,8 @@
+
+
+.hero-title {
+background: transparent;
+-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#663083AB,endColorstr=#663083AB)"; /* IE8 */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#663083AB,endColorstr=#663083AB);   /* IE6 & 7 */
+      zoom: 1;
+}

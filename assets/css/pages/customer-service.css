@@ -1,0 +1,143 @@
+
+.hero .img-holder,
+.img-holder img {
+	width: 950px;
+	height: 570px;
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+}
+
+
+.content-row {
+	margin: 20px 0 0;
+	border-top: 1px solid #d0dfe6;
+	border-bottom: 1px solid #d0dfe6;
+}
+
+.callout-wrapper {
+
+}
+
+.callout {
+	background: #3083ab;
+}
+	.callout .inner-callout {
+		padding: 30px;
+	}
+	.callout blockquote {
+		color: #fff;
+		font-weight: 100;
+		font-size: 2.8em;
+		line-height: 1.6em;
+		font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+		margin: 0;
+		padding: 0;
+		border: 0;
+	}
+
+
+.article-wrapper h5,
+.article-wrapper h1 {
+	text-transform: uppercase;
+	color: #3483aa;
+}
+.article-wrapper h5 {
+	font-size: 1.4em;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.article-wrapper h1 {
+	font-size: 5.4em;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+}
+.article-wrapper .article p {
+	color: #333;
+	font-size: 1.3em;
+	line-height: 1.6em;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+.testimonials {
+	height: 438px;
+	background: url(../../img/pages/customer-service/testimonials-bg.png) top center no-repeat;
+}
+.testimonials .testimonial {
+	margin: 0 0 0 350px;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+.testimonials .testimonial {
+	padding-right: 30px;
+}
+.testimonials .testimonial h2 {
+	font-size: 22px;
+	margin: 0;
+	color: #555;
+	font-weight: 200;
+}
+.testimonials .testimonial p {
+	font-size: 15px;
+	line-height: 22px;
+	color: #676767;
+	font-weight: 200;
+	margin: 0 0 4px
+}
+.testimonials .testimonial.first {
+	padding-top: 20px;
+}
+
+.testimonials .testimonial.second {
+	padding-top: 60px;
+}
+.testimonials .testimonial .user {
+	color: #3083ab;
+	font-size: 12px;
+	text-transform: uppercase;
+	float: right;
+	font-weight: bold;
+}
+
+/*Version without background image... */
+
+.testimonial {
+	margin: 0 0 0 0px;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+.testimonial {
+	padding-right: 30px;
+}
+.testimonial h2 {
+	font-size: 22px;
+	margin: 0;
+	color: #555;
+	font-weight: 200;
+}
+.testimonial p {
+	font-size: 15px;
+	line-height: 22px;
+	color: #676767;
+	font-weight: 200;
+	margin: 0 0 4px
+}
+.testimonial.first {
+	padding-top: 20px;
+}
+
+ .testimonial.second {
+	padding-top: 60px;
+}
+.testimonial .user {
+	color: #3083ab;
+	font-size: 12px;
+	text-transform: uppercase;
+	float: right;
+	font-weight: bold;
+}
+.last-t{
+	border-top:none;
+}
+
+
+
+

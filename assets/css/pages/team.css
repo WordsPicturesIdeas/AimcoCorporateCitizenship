@@ -1,0 +1,139 @@
+.hero .caption {
+	z-index: 1;
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	background: #3083ab;
+}
+.hero .caption p {
+	color: #fff;
+	padding: 20px 30px 20px 20px;
+	font-size: 1.6em;
+	line-height: 1.4em;
+	font-weight: 100;
+	letter-spacing: 1px;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+.hero .caption .caption-caret {
+	display: block;
+	position: absolute;
+	background: url(../../img/pages/team/caption-caret.png) center no-repeat;
+	height: 27px;
+	width: 92px;
+	bottom: 88px;
+	left: 30px;
+}
+.hero .img-holder,
+.hero .img-holder img {
+	display: block;
+	margin: 0 auto;
+	width: 950px;
+	height: 570px;
+}
+
+
+
+.hero-img-thumbs {
+	position: relative;
+	background: #fff;
+	padding: 6px 0;
+}
+
+	.hero-img-thumbs ul {
+		overflow: hidden;
+		width: 940px;
+		height: 112px;
+		margin: 0 auto;
+		padding: 0 0 0 0px;
+		list-style: none;
+	}
+	.hero-img-thumbs ul li {
+		display: inline-block;
+		vertical-align: top;
+		width: 180px;
+		height: 112px;
+	}
+		.hero-img-thumbs ul li a {
+			display: block;
+		}
+
+ .prev {
+background: url(/assets/img/left.png) no-repeat top;
+width: 30px;
+height: 45px;
+position: absolute;
+left: 0px;
+top: 40px;
+z-index: 100;
+text-indent: -9999px;
+margin-left: -30px;
+cursor: pointer;
+}
+
+ .next {
+background: url(/assets/img/right.png) no-repeat top;
+width: 30px;
+height: 45px;
+position: absolute;
+right: 0px;
+top: 40px;
+z-index: 100;
+margin-right: -30px;
+cursor: pointer;
+text-indent: -9999px;
+}
+
+		.prev:hover,
+		.next:hover {background-position:bottom;}
+
+.action-img {
+	position: relative;
+}
+.action-img a.events {
+	left: 60px;
+	top: 200px;
+	width: 175px;
+	height: 255px;
+	display: block;
+	text-indent: -9999px;
+	z-index: 111;
+	position: absolute;
+}
+
+.content-row {
+	margin: 40px 0 40px;
+	border-top: 1px solid #d0dfe6;
+	border-bottom: 1px solid #d0dfe6;
+}
+
+.article-wrapper:first-child {
+	border-right: 1px solid #d0dfe6;
+}
+
+
+.article-wrapper h5,
+.article-wrapper h1 {
+	text-transform: uppercase;
+	color: #3483aa;
+}
+.article-wrapper h5 {
+	font-size: 1.4em;
+	font-family: 'Open Sans', sans-serif;
+
+}
+.article-wrapper h1 {
+	font-size: 5.4em;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-weight: 100;
+	margin: 0 0 20px;
+}
+.content-row .article p {
+	padding: 0 26px 0 0;
+}
+.article-wrapper .article p {
+	color: #333;
+	font-size: 1.3em;
+	line-height: 1.6em;
+	font-family:  "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	margin: 0 0 60px;
+}
