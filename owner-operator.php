@@ -199,7 +199,7 @@
 						<article class="article">
 							<h1>Providing Housing and Jobs</h1>
 							<p>
-								Aimco’s vigorous redevelopment program continued to gain momentum and produce excitingresults in 2013. Nearly doubling the capital investments in its properties, Aimco completed several key redevelopment projects, meeting housing demands and creating jobs.
+								Aimco’s vigorous redevelopment program continued to gain momentum and produce exciting results in 2013. Nearly doubling the capital investments in its properties, Aimco completed several key redevelopment projects, meeting housing demands and creating jobs.
 							</p>
 						</article>
 
@@ -214,14 +214,14 @@
 							</p>
 
 							<p>
-								With the strong support of local government, business and labor leaders in Los Angeles, Aimco made significant progress on its multi-phase, $140 million redevelopment of Lincoln Place Apartments in Venice, CA. Listed on the National Register of Historic Places, the 35-acre site will include 45 buildings with 696 remodeled apartment homes and add 99 new apartment homes and amenities creating 700 jobs in the process.
+								With the strong support of local government, business and labor leaders in Los Angeles, CA Aimco made significant progress on its multi-phase, $140 million redevelopment of Lincoln Place Apartments in Venice, CA. Listed on the National Register of Historic Places, the 35-acre site will include 45 buildings with 696 remodeled apartment homes and add 99 new apartment homes and amenities creating 700 jobs in the process.
 							</p>
 						</article>
 
 						<article class="article">
 							<h1>New Opportunity in Chicago</h1>
 							<p>
-								In the thriving Chicago suburb of Elmhurst, Aimco completed new construction of 28 townhomes offering well-appointed living spaces and upscale services and features. Elm Creek Townhomes is located amidst natural beauty, yet close to employment centers and services.
+								In the thriving Chicago suburb of Elmhurst, Aimco completed new construction of 28 townhomes offering well-appointed living spaces and upscale services and features. Elm Creek Townhomes is located amidst natural beauty, yet close to employment centers and services. It also is adjacent to Aimco's Elm Creek apartment community.
 							</p>
 						</article>
 
