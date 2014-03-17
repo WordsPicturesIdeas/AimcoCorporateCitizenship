@@ -23,7 +23,6 @@
 
 	</head>
 	<body class="page-owner-operator">
-	<div id="beta" style="width:200px;position:fixed;z-index:99999;"><img src="/assets/img/beta.png" alt='chart' ></div>
 		<?php include_once('__includes/inc.nav.php'); ?>
 
 
@@ -46,7 +45,7 @@
 									<span class="title">Lincoln Place</span>
 									<span class="details">
 										Aimco’s multi-year redevelopment at Lincoln Place in Venice, CA made progress in 2013, delivering 204 renovated apartment homes that combine mid-20th century features with contemporary amenities.
-										<span class="inline_anchor" onclick="window.location = 'http://www.snl.com/irweblinkx/file.aspx?IID=103180&FID=14725951';">Read More &raquo;</span>
+										<!-- <span class="inline_anchor" onclick="window.location = 'http://www.snl.com/irweblinkx/file.aspx?IID=103180&FID=14725951';">Read More &raquo;</span> -->
 									</span>
 								</a>
 							</li>
@@ -55,7 +54,7 @@
 									<span class="title">Preserve at marin</span>
 									<span class="details">
 										The $50 million renovation of Preserve at Marin is taking shape and is welcoming new residents to its 126 luxury apartment homes in the Town of Corte Madera, CA. 
-										<span class="inline_anchor" onclick="window.location = 'http://www.snl.com/irweblinkx/file.aspx?IID=103180&FID=15566388';">Read More &raquo;</span>
+										<span class="inline_anchor" onclick="window.location = 'https://www.facebook.com/PreserveAtMarin';">Read More &raquo;</span>
 									</span>
 								</a>
 							</li>
@@ -72,7 +71,7 @@
 									<span class="title">One Canal</span>
 									<span class="details">
 										In 2013 Aimco broke ground for the development of One Canal, a $190 million, 12-story building, which will help revitalize Boston’s historic Bulfinch Triangle neighborhood. Aimco was joined by Boston Mayor Thomas M. Menino and Massachusetts Department of Transportation CEO and Secretary Richard Davey for the occasion.
-										<span class="inline_anchor" onclick="window.location = 'http://www.snl.com/irweblinkx/file.aspx?IID=103180&FID=20037809';">Read More &raquo;</span>
+										<span class="inline_anchor" onclick="window.location = 'http://www.cpexecutive.com/regions/northeast/aimco-breaks-ground-on-190m-m-f-project-in-boston/';">Read More &raquo;</span>
 									</span>
 								</a>
 							</li>
@@ -108,7 +107,7 @@
 										</div>
 										<div class="thumbnail-image-holder">
 											<ul class="clearfix">
-												<?php for ($i =1 ; $i < 4; $i++) : ?>
+												<?php for ($i =1 ; $i < 5; $i++) : ?>
 												<li><img src="assets/img/pages/owner-operator/preserve-<?php echo $i?>-thumb.jpg" alt='thumbnail image'/></li>
 											<?php endfor; ?>
 											</ul>

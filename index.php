@@ -50,7 +50,6 @@ endif;
 
     </head>
     <body>
-	<div id="beta" style="width:200px;position:fixed;z-index:99999;"><img src="/assets/img/beta.png" ></div>
         <div class="preload"></div>
 
     	<?php include_once('__includes/inc.nav.php'); ?>

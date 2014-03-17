@@ -23,7 +23,6 @@
 
 	</head>
 	<body class="page-team">
-		<div id="beta" style="width:200px;position:fixed;z-index:99999;"><img src="/assets/img/beta.png" ></div>
 		<?php include_once('__includes/inc.nav.php'); ?>
 
 
