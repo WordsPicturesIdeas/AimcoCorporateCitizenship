@@ -79,17 +79,24 @@
 								</p>
 							</article>
 
-							<h5>Serving Residents 24/7</h5>
-							<article class="article">
-								<p>
-									Understanding that time is at a premium for residents, Aimco offers an exclusive resident portal where customers can complete business transactions on their own timetable. Customers can view their accounts, pay rent, and set up automatic payments online and on their schedule. Renewing a lease and submitting and tracking service requests are other functions just a few keyboard clicks away, 24/7. The Aimco community teams seek opportunities to go above and beyond to solve problems and provide outstanding customer service. Aimco measures resident satisfaction on an ongoing basis through a series of surveys. Aimco consistently receives favorable ratings in the areas of apartment home cleanliness and responsiveness of the maintenance team. Survey results are shared with each member of the Operations Team, with the goals of continuous improvement and exceeding expectations.
-								</p>
+							<h5>There For You</h5>
+							<article class="article testimonial">
+                                                                <p>
+                                                                        "I wanted to personally acknowledge you and thank you for the way you have handled my daughter's rental process. You have exceeded our expectations and it's very comforting for a parent to know that the building is being managed by such a caring and thoughtful team. We appreciate all that you do to make her apartment feel like a home."
+                                                                </p>
+                                                                <span class="user">&ndash; Parent of a Resident at The Sterling Apartment Homes, Philadelphia</span>
+                                                        </article>
+                                                        <article class="article testimonial">
+                                                                <p>
+                                                                        "You, along with your staff, have been doing a terrific job taking care of the building and most especially the residents. I can honestly say that of all the management teams I have had the opportunity to meet in the past, yours is the most professional, hardworking, thoughtful and consistent. You all work as a team and this I would say is the most important thing you could offer to your residents."</p>
+                                                                <span class="user">&ndash; From a Resident of Ravensworth Towers, Annandale, Virginia</span>
+
 							</article>
 						</div>
 					</div>
 				</div>
 				
-				<div class="content-row last-t">
+<!--				<div class="content-row last-t">
 					<div class="row">
 						<div class="span6">
 							<article class="testimonial  clearfix">
@@ -107,7 +114,7 @@
 						</div>
 					</div> 
 				</div>
-
+-->
 <!-- 
 				<div class="testimonials">
 					<article class="testimonial first clearfix">

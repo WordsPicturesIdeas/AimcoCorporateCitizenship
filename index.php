@@ -145,7 +145,7 @@ endif;
 						<div class="tile-backdrop">
 
 
-							<img src="assets/img/2-f.png" />
+							<img src="assets/img/2-f.jpg" />
 						</div>
 					</div>
 
@@ -210,7 +210,7 @@ endif;
 
 		<aside class="container">
 			<div class="action container">
-				<h1>VISION IN ACTION</h1>
+				<h1>BRINGING OUR VISION HOME</h1>
 				<p><em>Aimco Corporate Citizenship Report 2013</em></p>
 				<p class="instr">	Download -or- Build a custom report by selecting a specific section below:</p>
 				<section class="build-report clearfix">
