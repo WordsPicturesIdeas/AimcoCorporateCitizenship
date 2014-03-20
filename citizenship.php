@@ -33,7 +33,7 @@
 
 				<section class="hero">
 					<div class="img-holder">
-						<img src="assets/img/pages/citizenship/hero-1.jpg"/>
+						<img src="assets/img/pages/citizenship/hero-1.jpg" alt="citizenship image"/>
 					</div>
 					<header class="hero-title">
 						<span class="hero-ribbon"></span>

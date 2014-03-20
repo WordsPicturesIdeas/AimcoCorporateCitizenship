@@ -11,8 +11,8 @@
 		<link rel="stylesheet" href="assets/css/normalize.css">
 		<link rel="stylesheet" href="assets/css/main.css">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" href="assets/css/boilerplate-layout.css?x=<?php echo Time();?>">
-		<link rel="stylesheet" href="assets/css/pages/financial.css?x=<?php echo Time();?>">
+		<link rel="stylesheet" href="assets/css/boilerplate-layout.css">
+		<link rel="stylesheet" href="assets/css/pages/financial.css">
 		<script src="assets/js/vendor/modernizr-2.6.2.min.js"></script>
 
 
@@ -32,7 +32,7 @@
 
 				<section class="hero">
 					<div class="img-holder">
-						<img src="assets/img/pages/financial/hero-1.jpg"/>
+						<img src="assets/img/pages/financial/hero-1.jpg" alt="financial leading image"/>
 					</div>
 					<header class="hero-title">
 						<span class="hero-ribbon"></span>
@@ -44,7 +44,7 @@
 
 				<div class="content-row">
 					<div class="row">
-						<div class="span8 article-wrapper ">
+						<div class="span6 article-wrapper ">
 							<h5>Leading with</h5>
 							<article class="article">
 								<h1>Integrity</h1>
@@ -65,8 +65,8 @@
 							</article>
 							
 						</div>
-						<div class="span4 article-wrapper">
-							<img style="margin: 20px auto;"src="assets/img/pages/financial/pic1.jpg"/>
+						<div class="span6 article-wrapper">
+							<img style="margin: 20px 0 0 12px;"src="assets/img/pages/financial/pic1.jpg"/>
 						</div>
 					</div>
 				</div>

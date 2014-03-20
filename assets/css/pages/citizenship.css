@@ -69,7 +69,8 @@
 		padding: 0;
 	}
 	.article .meta .images {
-		width: 270px;
+		/*width: 270px;*/
+		width: 600px;
 		float: left;
 		margin: 10px 0 0 0;
 		background: #f8f8f8;
@@ -77,12 +78,12 @@
 	}
 	.meta .image-holder {
 		margin: 0 auto;
-		width: 264px;
-		height: 164px;
+		/*width: 264px;
+		height: 164px;*/
 	}
 	.meta p.image-caption {
 		text-align: center;
-		font-size: 1em;
+		/*font-size: 1em;*/
 		line-height: 1.2em;
 		padding: 20px;
 		margin: 0 0 4px;

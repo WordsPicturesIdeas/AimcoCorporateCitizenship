@@ -82,8 +82,7 @@
 								<h1>Team Culture</h1>
 								<p>
 									The women and men who build their careers at Aimco embrace the values of integrity, respect, collaboration, customer focus, and performance — creating an environment of success and producing positive results for our residents, shareholders and communities.
-								</p>
-								<p>
+								<br /> <br/>
 									The introduction and adoption of Aimco’s cultural pillars was a significant highlight of 2013. Developed by more than one-hundred team members from across the country, the building blocks of living with gusto, taking ownership, valuing relationships, creating moments that matter, and driving innovation and change, shape and motivate the daily interactions of the Aimco team.
 								</p>
 								

@@ -138,16 +138,11 @@
 												<?php for ($i =1 ; $i < 2; $i++) : ?>
 												<li><img src="assets/img/pages/owner-operator/canal-<?php echo $i?>-thumb.jpg" alt='thumbnail image'/></li>
 											<?php endfor; ?>
-												<li class="fancybox-media">
-													<a href="http://www.youtube.com/embed/0Pn4AZ040gQ" id="canalvid">
-													<img style="width:91px;height:58px;" src="assets/img/pages/owner-operator/canal-2-thumb.jpg" alt='thumbnail image'/>
+												<li class="vidthumb">
+													<a href="http://www.youtube.com/embed/0Pn4AZ040gQ" >
+													<img src="assets/img/pages/owner-operator/canal-2-thumb.jpg" alt='thumbnail image' id="canalvid" />
 													</a>
 												</li>
-												<!-- <li>
-													<a href="#oneCanal" role="button" class="btn" data-toggle="modal">
-														<img style="width:91px;height:58px;" src="assets/img/pages/owner-operator/canal-2-thumb.jpg" alt='thumbnail image'/>
-													</a>
-												</li> -->
 											</ul>
 										</div>
 									</section>
@@ -162,17 +157,11 @@
 												<?php for ($i =1 ; $i < 3; $i++) : ?>
 												<li><img src="assets/img/pages/owner-operator/elm-creek-<?php echo $i?>-thumb.jpg" alt='thumbnail image'/></li>
 											<?php endfor; ?>
-												<li class="fancybox-media">
-													<a href="http://www.youtube.com/embed/x2Dr6diNbWQ" id="elmvid">
-														<img style="width:91px;height:58px;" src="assets/img/pages/owner-operator/elm-creek-3-thumb.jpg" alt='thumbnail image'/>
+												<li class="vidthumb">
+													<a href="http://www.youtube.com/embed/x2Dr6diNbWQ" >
+														<img src="assets/img/pages/owner-operator/elm-creek-3-thumb.jpg" alt='thumbnail image' id="elmvid"/>
 													</a>
 												</li>
-												<!-- <li>
-													<a href="#elmCreek" role="button" class="btn" data-toggle="modal">
-														<img style="width:91px;height:58px;" src="assets/img/pages/owner-operator/elm-creek-3-thumb.jpg" alt='thumbnail image'/>
-													</a>
-												</li> -->
-
 											</ul>
 										</div>
 									</section>
@@ -205,14 +194,8 @@
 						<article class="article">
 							<h1>Investing in California</h1>
 							<p>
-								In San Bruno, CA, Aimco was joined by City officials for the grand opening of Pacific Bay Vistas, a $121 million project bringing 308 upscale apartment homes to the Bay Area, and employing more than 300 area construction workers.
-							</p>
-
-							<p>
-								An ideal location with views of the San Francisco Bay and the Pacific Ocean, the property also affords residents easy access to the region’s job centers and transportation systems.
-							</p>
-
-							<p>
+								In San Bruno, CA, Aimco was joined by City officials for the grand opening of Pacific Bay Vistas, a $121 million project bringing 308 upscale apartment homes to the Bay Area, and employing more than 300 area construction workers. An ideal location with views of the San Francisco Bay and the Pacific Ocean, the property also affords residents easy access to the region’s job centers and transportation systems.
+								<br /> <br />
 								With the strong support of local government, business and labor leaders in Los Angeles, CA Aimco made significant progress on its multi-phase, $140 million redevelopment of Lincoln Place Apartments in Venice, CA. Listed on the National Register of Historic Places, the 35-acre site will include 45 buildings with 696 remodeled apartment homes and add 99 new apartment homes and amenities creating 700 jobs in the process.
 							</p>
 						</article>
@@ -273,30 +256,8 @@
 
 
 			</div>
+
 		</div>
-
-
-<!-- Modal box contents -->
-
-<!-- <div id="elmCreek" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="width:590px;">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3 id="myModalLabel">Elm Creek Opening</h3>
-  </div>
-  <div class="modal-body">
-    <iframe width="560" height="315" src="//www.youtube.com/embed/x2Dr6diNbWQ" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
-<div id="oneCanal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="width:590px;">
-  <div class="modal-header">
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-    <h3 id="myModalLabel">Elm Creek Opening</h3>
-  </div>
-  <div class="modal-body">
-    <iframe width="560" height="315" src="//www.youtube.com/embed/0Pn4AZ040gQ" frameborder="0" allowfullscreen></iframe>
-  </div>
-</div>
- -->
 
 
 		<?php include_once('__includes/inc.footer.php');?>
@@ -313,31 +274,8 @@
 
 			$(function(){
 
-				// $("#elmvid, #canalvid").fancybox({
-				// 		'aspectRatio'       : true,
-				// 		'padding'           : 0,
-				// 		'autoScale'         : false,
-				// 		'transitionIn'      : 'none',
-				// 		'transitionOut'     : 'none',
-				// 		'helpers' 					: {media : {} },
-				// 		beforeLoad					: function(){alert("beforeLoad fired...");}
-				// 	});
-
-
-				// $("#elmvid, #canalvid").click(function(){
-				// 	alert("Caught the click...");
-				// 	$(this).fancybox({
-				// 		'aspectRatio'       : true,
-				// 		'padding'           : 0,
-				// 		'autoScale'         : false,
-				// 		'transitionIn'      : 'none',
-				// 		'transitionOut'     : 'none',
-				// 		'helpers' 					: {media : {} },
-				// 		beforeLoad					: function(){alert("beforeLoad fired...");}
-				// 	});
-				// });
-
-				$('.thumbnail-image-holder li:not(.fancybox-media) img').click(function(){
+				// Override clicks on the image thumbnails.
+				$('.thumbnail-image-holder li:not(.vidthumb) img').click(function(){
 					$(this).closest('section').find('.large-image-holder img').attr('src', $(this).attr('src').replace('thumb','image'));
 					return false;
 				});
