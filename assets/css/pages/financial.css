@@ -65,8 +65,8 @@ a.link-arrow:hover {
 
 
  .member {
-	background: url(../../img/pages/financial/bullet-arrow.png) left 6px no-repeat;
-	padding: 0 0 0 50px;
+	/*background: url(../../img/pages/financial/bullet-arrow.png) left 6px no-repeat;
+	padding: 0 0 0 50px;*/
 	margin-top: 10px;
 }
 p.member-name,

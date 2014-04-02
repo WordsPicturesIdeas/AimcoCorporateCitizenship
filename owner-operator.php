@@ -44,7 +44,7 @@
 								<a href="#lincoln-place" data-toggle="tab">
 									<span class="title">Lincoln Place</span>
 									<span class="details">
-										Aimco’s multi-year redevelopment at Lincoln Place in Venice, CA made progress in 2013, delivering 204 renovated apartment homes that combine mid-20th century features with contemporary amenities.
+										Aimco’s multi-year redevelopment at Lincoln Place in Venice, CA made progress in 2013, delivering 204 renovated apartment homes that combine mid-century modern features with contemporary amenities.
 										<!-- <span class="inline_anchor" onclick="window.location = 'http://www.snl.com/irweblinkx/file.aspx?IID=103180&FID=14725951';">Read More &raquo;</span> -->
 									</span>
 								</a>
@@ -53,7 +53,7 @@
 								<a href="#preserve-at-marin" data-toggle="tab">
 									<span class="title">Preserve at marin</span>
 									<span class="details">
-										The $50 million renovation of Preserve at Marin is taking shape and is welcoming new residents to its 126 luxury apartment homes in the Town of Corte Madera, CA. 
+										The $50 million renovation of Preserve at Marin is welcoming new residents to its 126 luxury apartment homes in the Town of Corte Madera, CA. 
 										<span class="inline_anchor" onclick="window.location = 'https://www.facebook.com/PreserveAtMarin';">Read More &raquo;</span>
 									</span>
 								</a>
@@ -139,7 +139,8 @@
 												<li><img src="assets/img/pages/owner-operator/canal-<?php echo $i?>-thumb.jpg" alt='thumbnail image'/></li>
 											<?php endfor; ?>
 												<li class="vidthumb">
-													<a href="http://www.youtube.com/embed/0Pn4AZ040gQ" >
+													<!-- <a href="http://www.youtube.com/embed/0Pn4AZ040gQ" > -->
+													<a href="http://www.aimco.com/videos/one-canal-groundbreaking" >
 													<img src="assets/img/pages/owner-operator/canal-2-thumb.jpg" alt='thumbnail image' id="canalvid" />
 													</a>
 												</li>
@@ -158,7 +159,8 @@
 												<li><img src="assets/img/pages/owner-operator/elm-creek-<?php echo $i?>-thumb.jpg" alt='thumbnail image'/></li>
 											<?php endfor; ?>
 												<li class="vidthumb">
-													<a href="http://www.youtube.com/embed/x2Dr6diNbWQ" >
+													<!-- <a href="http://www.youtube.com/embed/x2Dr6diNbWQ" > -->
+													<a href="http://www.aimco.com/videos/elm-creek-townhomes" >
 														<img src="assets/img/pages/owner-operator/elm-creek-3-thumb.jpg" alt='thumbnail image' id="elmvid"/>
 													</a>
 												</li>

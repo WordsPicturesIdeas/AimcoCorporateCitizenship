@@ -64,7 +64,7 @@ endif;
 							<div class="details">
 								<span class="pre_heading">Outstanding Corporate</span>
 								<span class="sub_heading">CITIZENSHIP <i class="icon-right-circled"></i></span>
-								<span class="sub_text">Aimco embraces corporate citizenship by engaging in community partnerships, working with elected officials, and giving back to those in need through team volunteer projects nationwide.</span>
+								<span class="sub_text">Aimco embraces corporate citizenship by engaging in community partnerships, working with elected officials, and giving back to giving back to communities through team volunteer projects nationwide.</span>
 							</div>
 						</a>
 						<div class="tile-backdrop">

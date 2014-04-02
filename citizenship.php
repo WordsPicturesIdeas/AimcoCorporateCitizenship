@@ -33,12 +33,12 @@
 
 				<section class="hero">
 					<div class="img-holder">
-						<img src="assets/img/pages/citizenship/hero-1.jpg" alt="citizenship image"/>
+						<img src="assets/img/pages/citizenship/hero-1.png" alt="citizenship lead image" />
 					</div>
 					<header class="hero-title">
 						<span class="hero-ribbon"></span>
 						<span class="pre-text">Outstanding Corporate</span>
-						<h1>citizenship</h1>
+						<h1>Citizenship</h1>
 					</header>
 				</section><!-- //hero -->
 
@@ -58,9 +58,9 @@
 
 					<div class="aside">
 						<article class="article sanctuary-video video">
-							<a href="assets/videos/Thank_you_AIMCO.swf">
-								<img src="assets/img/pages/citizenship/aside-img-1.jpg"/>
-							</a>
+							<!--<a href="assets/videos/Thank_you_AIMCO.swf">-->
+								<img src="assets/img/pages/citizenship/aside-img-1.jpg" alt="aside"/>
+							<!-- </a> -->
 							<div class="caption">
 								<p>
 									Miami Beach Commissioner Michael Gongora, City Manager Jimmy L. Morales, and Aimco Senior Vice President Patti Shwayder walk along a new, 1/ 3 mile stretch of the Baywalk constructed by Aimco adjacent to The Flamingo South Beach Apartments. The project signifies a new partnership between Aimco and the City to connect South Beach residents to city attractions and amenities.
@@ -93,14 +93,14 @@
 							<section class="meta clearfix">
 								<div class="images">
 									<div class="image-holder">
-										<img src="assets/img/pages/citizenship/ms-1-image.jpg"/>
+										<img src="assets/img/pages/citizenship/ms-1-image.jpg" alt="image"/>
 									</div>
 										<?php $captions = array(
-											1 => 'Food Bank: The Food Bank of the Rockies welcomes the hard work of Aimco volunteers who sort and pack food donations in its warehouse.',
-											2 => 'MS Bike Race – RIDING FOR A CURE: Under the leadership of Patti Fielding, Aimco\'s Executive Vice President of Debt and Treasury, Aimco partners each year with the MS Society of Colorado and Wyoming. The MS 150 benefits individuals living with the life-altering disease. Since 2008, nearly 200 Aimco team members have completed the 150-mile course, and raised close to $214,000.',
-											3 => 'Philadelphia: Aimco Philadelphia team members partnered with leaders of the University City District to clean a vacant lot and help improve the appearance of a local neighborhood.',
-											4 => 'Tennyson Center: Team members volunteered at the Tennyson Center for abused and neglected children during one of two national Aimco Cares Community Service Weeks.',
-											5 => 'Ronald McDonald House: The Ronald McDonald House holds a special place in the hearts of Aimco team members who volunteer regularly to prepare and serve meals to families dealing with serious medical issues.'
+											1 => 'Under the leadership of Patti Fielding, Aimco\'s Executive Vice President of Debt and Treasury, Aimco partners each year with the MS Society of Colorado and Wyoming. The MS 150 benefits individuals living with the life-altering disease. Since 2008, nearly 200 Aimco team members have completed the 150-mile course, and raised close to $214,000.',
+											2 => 'The Food Bank of the Rockies welcomes the hard work of Aimco volunteers who sort and pack food donations in its warehouse.',
+											3 => 'Aimco Philadelphia team members partnered with leaders of the University City District to clean a vacant lot and help improve the appearance of a local neighborhood.',
+											4 => 'Team members volunteered at the Tennyson Center for abused and neglected children during one of two national Aimco Cares Community Service Weeks.',
+											5 => 'The Ronald McDonald House holds a special place in the hearts of Aimco team members who volunteer regularly to prepare and serve meals to families dealing with serious medical issues.'
 										);
 										?>
 									<p class="image-caption">
@@ -130,7 +130,7 @@
 
 					<div class="aside">
 						<article class="article">
-							<img src="assets/img/pages/citizenship/aside-img-2.jpg"/>
+							<img src="assets/img/pages/citizenship/aside-img-2.jpg" alt="image aside"/>
 							<div class="caption blue">
 								<p>
 									The Aimco D.C. team presents a check to TAPS for $160,000 in proceeds from the Aimco Cares Charity Golf Classic. Aimco cherishes its partnerships with military organizations that support our country's men and women in uniform, and their families. With this year's contribution, Aimco has donated well over $600,000 to Tragedy Assistance Program for Survivors in the last six years.

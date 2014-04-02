@@ -53,7 +53,9 @@
 							<?php $first = $i == 1 ? 'first' : ''; ?>
 							<?php $last = $i == 4 ? 'video fancybox-media' : '';  ?>
 							<?php  /* $video_url = $i == 4 ? 'assets/videos/Priscilla_Gonzales.swf' : '';   */ ?>
-							<?php  $video_url = $i == 4 ? 'http://www.youtube.com/embed/BjCHJ-T2hsA' : '';  ?>
+							<?php /* $video_url = $i == 4 ? 'http://www.youtube.com/embed/BjCHJ-T2hsA' : '';  */ ?>
+							<?php /* $video_url = $i == 4 ? 'http://www.aimco.com/videos/our-culture-is-our-heart' : ''; */ ?>
+							<?php /* new shorter video link: */ $video_url = $i == 4 ? 'http://www.aimco.com/videos/aimco-culture-video' : '';  ?>
 							<li class="<?php echo $last;?> <?php echo $first ?>">
 								<a href="<?php echo $video_url; ?>">
 									<img src="assets/img/pages/team/hero-<?php echo $i?>-thumb.jpg" />

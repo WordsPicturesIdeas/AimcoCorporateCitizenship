@@ -124,7 +124,7 @@
 						<div class="signature ir">Terry</div>
 						<p class="name">Terry Considine</p>
 						<p class="title">Chairman and CEO</p>
-						<p class="company">Appartment Investment and Management Company</p>
+						<p class="company">Apartment Investment and Management Company</p>
 						</div>
 					</div>
 					<article>
