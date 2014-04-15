@@ -3,10 +3,13 @@
 			<div class="container clearfix">
 				<nav class="pull-left">
 					<ul>
-						<li><a href="http://www.aimco.com/about-us/our-business/property-operations">About Us</a><li>
+						<!-- <li><a href="http://www.aimco.com/about-us/our-business/property-operations">About Us</a><li> -->
+						<li><a href="http://www.aimco.com/">Visit Aimco.com</a></li>
 						<li><a href="http://www.aimco.com/privacy">Privacy</a></li>
+						<!--
 						<li><a href="http://www.aimco.com/contact-us">Contact</a></li>
 						<li><a href="http://www.aimco.com/press-room/press-releases">Newsroom</a></li>
+						-->
 					</ul>
 				</nav>
 				<p class="copy">&copy; <?php echo date("Y")?> AIMCO, All Rights Reserved</p>
